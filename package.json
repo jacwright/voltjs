@@ -1,0 +1,13 @@
+{
+	"name": "VoltJS",
+	"description": "VoltDB binary driver",
+	"version": "0.1.0",
+	"author": "Jacob Wright",
+	"engines": {
+		"node": ">= 0.4.0"
+	},
+	"dependencies": {
+		"bignumber" : "latest",
+		"ctype":"latest"
+	}
+}
